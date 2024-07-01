@@ -7,3 +7,5 @@ This is a simple calculator application.
 - Subtraction
 - Multiplication
 - Division
+- Power
+- Square Root
